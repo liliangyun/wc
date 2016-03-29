@@ -1,0 +1,4 @@
+一：点击ConsoleApplication1进入
+二：点击引用中的Program.cs
+三：运行程序
+四：复制Program.cs完整路径粘贴到运行窗口即可
